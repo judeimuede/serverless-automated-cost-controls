@@ -2,7 +2,7 @@
 
 Sample implementation of serverless automated cost controls using AWS Budgets, Amazon SNS and AWS Lambda.
 
-A companion AWS blog post, titled "Serverless Automated Cost Controls" ,for this repository can be found in the AWS Serverless Blog. 
+A companion AWS blog post, titled "Serverless Automated Cost Controls", for this repository can be found in the AWS Serverless Blog. 
 
 ## Setup
 cd createBudgetLambda
